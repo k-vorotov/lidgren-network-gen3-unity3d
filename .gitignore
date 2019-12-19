@@ -401,3 +401,7 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+#Unity3d
+!*.asmdef
+!*.asmdef.meta
